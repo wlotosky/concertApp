@@ -1,3 +1,1 @@
-entry: {
-  'app': './dev/main.ts',
-},
+module.exports = require('./config/webpack.dev.js');
